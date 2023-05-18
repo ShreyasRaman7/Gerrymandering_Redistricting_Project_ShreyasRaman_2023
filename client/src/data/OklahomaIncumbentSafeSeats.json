@@ -1,0 +1,54 @@
+{
+  "labels": [
+    "OK-01",
+    "OK-02",
+    "OK-03",
+    "OK-04",
+    "OK-05"
+  ],
+  "incumbents": [
+    {
+      "district": "OK-01",
+      "name": "Kevin Hern",
+      "party": "Republican",
+      "safeSeats": 1,
+      "incumbent": true,
+      "margin": 12
+    },
+    {
+      "district": "OK-02",
+      "name": "Markwayne Mullin",
+      "party": "Republican",
+      "safeSeats": 1,
+      "incumbent": true,
+      "margin": 12
+    },
+    {
+      "district": "OK-03",
+      "name": "Frank Lucas",
+      "party": "Republican",
+      "safeSeats": 1,
+      "incumbent": true,
+      "margin": 12
+    },
+    {
+      "district": "OK-04",
+      "name": "Tom Cole",
+      "party": "Republican",
+      "safeSeats": 1,
+      "incumbent": true,
+      "margin": 12
+    },
+    {
+      "district": "OK-05",
+      "name": "Stephanie Bice",
+      "party": "Republican",
+      "safeSeats": 1,
+      "incumbent": true,
+      "margin": 12
+    }
+  ],
+  "openSeats": [
+    
+  ]
+}

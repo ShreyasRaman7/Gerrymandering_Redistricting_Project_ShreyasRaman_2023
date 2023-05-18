@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.col-md-5{
+  max-height: 750px;
+  overflow-y: scroll;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.selected {
+  /* background-color: rgba(198, 198, 184, 0.975); */
+  background-color: rgb(255, 255, 142);
+}
+
+.selected-state {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 999;
+}
+
+.highlight:hover {
+  background-color: yellow;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Rounded sliders */
+.slider {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  margin-right: 10px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: .4s;
+  border-radius: 34px;
+}
+
+input:checked+.slider:before {
+  transform: translateX(26px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+#state-select-label {
+  font-size: 1.2rem;
+  color: #552583;
+}
+
+#district-plan-select-label {
+  font-size: 1.2rem;
+  color: #552583;
+}

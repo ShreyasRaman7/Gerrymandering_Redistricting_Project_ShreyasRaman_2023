@@ -1,0 +1,336 @@
+{
+    "state": "Oklahoma",
+    "year": 2022,
+    "interesting_district_plans": [
+      {
+        "planNumber": 1,
+        "districts": [
+          {
+            "number": 1,
+            "winner": "Republican",
+            "estimatedPercentage": 56.8
+          },
+          {
+            "number": 2,
+            "winner": "Republican",
+            "estimatedPercentage": 62.3
+          },
+          {
+            "number": 3,
+            "winner": "Democrat",
+            "estimatedPercentage": 51.6
+          },
+          {
+            "number": 4,
+            "winner": "Republican",
+            "estimatedPercentage": 57.9
+          },
+          {
+            "number": 5,
+            "winner": "Democrat",
+            "estimatedPercentage": 50.9
+          }
+        ]
+      },
+      {
+        "planNumber": 2,
+        "districts": [
+          {
+            "number": 1,
+            "winner": "Republican",
+            "estimatedPercentage": 53.7
+          },
+          {
+            "number": 2,
+            "winner": "Democrat",
+            "estimatedPercentage": 50.3
+          },
+          {
+            "number": 3,
+            "winner": "Republican",
+            "estimatedPercentage": 61.8
+          },
+          {
+            "number": 4,
+            "winner": "Democrat",
+            "estimatedPercentage": 53.6
+          },
+          {
+            "number": 5,
+            "winner": "Republican",
+            "estimatedPercentage": 56.9
+          }
+        ]
+      },
+      {
+        "planNumber": 3,
+        "districts": [
+          {
+            "number": 1,
+            "winner": "Republican",
+            "estimatedPercentage": 55.2
+          },
+          {
+            "number": 2,
+            "winner": "Democrat",
+            "estimatedPercentage": 54.1
+          },
+          {
+            "number": 3,
+            "winner": "Republican",
+            "estimatedPercentage": 57.3
+          },
+          {
+            "number": 4,
+            "winner": "Democrat",
+            "estimatedPercentage": 51.8
+          },
+          {
+            "number": 5,
+            "winner": "Republican",
+            "estimatedPercentage": 62.1
+          }
+        ]
+      },
+      {
+        "planNumber": 4,
+        "districts": [
+          {
+            "number": 1,
+            "winner": "Republican",
+            "estimatedPercentage": 57.4
+          },
+          {
+            "number": 2,
+            "winner": "Democrat",
+            "estimatedPercentage": 52.7
+          },
+          {
+            "number": 3,
+            "winner": "Republican",
+            "estimatedPercentage": 60.2
+          },
+          {
+            "number": 4,
+            "winner": "Democrat",
+            "estimatedPercentage": 54.6
+          },
+          {
+            "number": 5,
+            "winner": "Republican",
+            "estimatedPercentage": 58.9
+          }
+        ]
+      },
+      {
+        "planNumber": 5,
+        "districts": [
+          {
+            "number": 1,
+            "winner": "Republican",
+            "estimatedPercentage": 57.4
+          },
+          {
+            "number": 2,
+            "winner": "Democrat",
+            "estimatedPercentage": 52.7
+          },
+          {
+            "number": 3,
+            "winner": "Republican",
+            "estimatedPercentage": 60.2
+          },
+          {
+            "number": 4,
+            "winner": "Democrat",
+            "estimatedPercentage": 54.6
+          },
+          {
+            "number": 5,
+            "winner": "Republican",
+            "estimatedPercentage": 58.9
+          }
+        ]
+      },
+      {
+        "planNumber": 6,
+        "districts": [
+          {
+            "number": 1,
+            "winner": "Republican",
+            "estimatedPercentage": 57.4
+          },
+          {
+            "number": 2,
+            "winner": "Democrat",
+            "estimatedPercentage": 52.7
+          },
+          {
+            "number": 3,
+            "winner": "Republican",
+            "estimatedPercentage": 60.2
+          },
+          {
+            "number": 4,
+            "winner": "Democrat",
+            "estimatedPercentage": 54.6
+          },
+          {
+            "number": 5,
+            "winner": "Republican",
+            "estimatedPercentage": 58.9
+          },
+          {
+            "planNumber": 7,
+            "districts": [
+              {
+                "number": 1,
+                "winner": "Republican",
+                "estimatedPercentage": 57.4
+              },
+              {
+                "number": 2,
+                "winner": "Democrat",
+                "estimatedPercentage": 52.7
+              },
+              {
+                "number": 3,
+                "winner": "Republican",
+                "estimatedPercentage": 60.2
+              },
+              {
+                "number": 4,
+                "winner": "Democrat",
+                "estimatedPercentage": 54.6
+              },
+              {
+                "number": 5,
+                "winner": "Republican",
+                "estimatedPercentage": 58.9
+              },
+              {
+                "planNumber": 7,
+                "districts": [
+                  {
+                    "number": 1,
+                    "winner": "Republican",
+                    "estimatedPercentage": 57.4
+                  },
+                  {
+                    "number": 2,
+                    "winner": "Democrat",
+                    "estimatedPercentage": 52.7
+                  },
+                  {
+                    "number": 3,
+                    "winner": "Republican",
+                    "estimatedPercentage": 60.2
+                  },
+                  {
+                    "number": 4,
+                    "winner": "Democrat",
+                    "estimatedPercentage": 54.6
+                  },
+                  {
+                    "number": 5,
+                    "winner": "Republican",
+                    "estimatedPercentage": 58.9
+                  },
+                  {
+                    "planNumber": 8,
+                    "districts": [
+                      {
+                        "number": 1,
+                        "winner": "Republican",
+                        "estimatedPercentage": 57.4
+                      },
+                      {
+                        "number": 2,
+                        "winner": "Democrat",
+                        "estimatedPercentage": 52.7
+                      },
+                      {
+                        "number": 3,
+                        "winner": "Republican",
+                        "estimatedPercentage": 60.2
+                      },
+                      {
+                        "number": 4,
+                        "winner": "Democrat",
+                        "estimatedPercentage": 54.6
+                      },
+                      {
+                        "number": 5,
+                        "winner": "Republican",
+                        "estimatedPercentage": 58.9
+                      }
+                    ]
+                  },
+                  {
+                    "planNumber": 9,
+                    "districts": [
+                      {
+                        "number": 1,
+                        "winner": "Republican",
+                        "estimatedPercentage": 57.4
+                      },
+                      {
+                        "number": 2,
+                        "winner": "Democrat",
+                        "estimatedPercentage": 52.7
+                      },
+                      {
+                        "number": 3,
+                        "winner": "Republican",
+                        "estimatedPercentage": 60.2
+                      },
+                      {
+                        "number": 4,
+                        "winner": "Democrat",
+                        "estimatedPercentage": 54.6
+                      },
+                      {
+                        "number": 5,
+                        "winner": "Republican",
+                        "estimatedPercentage": 58.9
+                      }
+                    ]
+                  },
+                  {
+                    "planNumber": 10,
+                    "districts": [
+                      {
+                        "number": 1,
+                        "winner": "Republican",
+                        "estimatedPercentage": 57.4
+                      },
+                      {
+                        "number": 2,
+                        "winner": "Democrat",
+                        "estimatedPercentage": 52.7
+                      },
+                      {
+                        "number": 3,
+                        "winner": "Republican",
+                        "estimatedPercentage": 60.2
+                      },
+                      {
+                        "number": 4,
+                        "winner": "Democrat",
+                        "estimatedPercentage": 54.6
+                      },
+                      {
+                        "number": 5,
+                        "winner": "Republican",
+                        "estimatedPercentage": 58.9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

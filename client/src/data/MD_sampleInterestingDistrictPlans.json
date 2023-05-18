@@ -1,0 +1,142 @@
+{
+  "state": "Maryland",
+  "year": 2022,
+  "interesting_district_plans": [
+    {
+      "name": "Democrat Favored Generated Plan",
+      "districts": [
+        {
+          "number": 1,
+          "winner": "Democrat",
+          "estimatedPercentage": 58.4
+        },
+        {
+          "number": 2,
+          "winner": "Democrat",
+          "estimatedPercentage": 61.8
+        },
+        {
+          "number": 3,
+          "winner": "Democrat",
+          "estimatedPercentage": 60.2
+        },
+        {
+          "number": 4,
+          "winner": "Democrat",
+          "estimatedPercentage": 80.1
+        },
+        {
+          "number": 5,
+          "winner": "Democrat",
+          "estimatedPercentage": 70.2
+        },
+        {
+          "number": 6,
+          "winner": "Democrat",
+          "estimatedPercentage": 58.3
+        },
+        {
+          "number": 7,
+          "winner": "Democrat",
+          "estimatedPercentage": 72.8
+        },
+        {
+          "number": 8,
+          "winner": "Democrat",
+          "estimatedPercentage": 83.2
+        }
+      ]
+    },
+    {
+      "name": "High Geometric Variation Generated Plan",
+      "districts": [
+        {
+          "number": 1,
+          "winner": "Republican",
+          "estimatedPercentage": 60.5
+        },
+        {
+          "number": 2,
+          "winner": "Democrat",
+          "estimatedPercentage": 51.3
+        },
+        {
+          "number": 3,
+          "winner": "Democrat",
+          "estimatedPercentage": 56.1
+        },
+        {
+          "number": 4,
+          "winner": "Democrat",
+          "estimatedPercentage": 91.3
+        },
+        {
+          "number": 5,
+          "winner": "Democrat",
+          "estimatedPercentage": 63.6
+        },
+        {
+          "number": 6,
+          "winner": "Democrat",
+          "estimatedPercentage": 59.4
+        },
+        {
+          "number": 7,
+          "winner": "Democrat",
+          "estimatedPercentage": 84.8
+        },
+        {
+          "number": 8,
+          "winner": "Democrat",
+          "estimatedPercentage": 68.2
+        }
+      ]
+    },
+    {
+      "name": "High Population Variation Generated Plan",
+      "districts": [
+        {
+          "number": 1,
+          "winner": "Republican",
+          "estimatedPercentage": 60.5
+        },
+        {
+          "number": 2,
+          "winner": "Republican",
+          "estimatedPercentage": 58.3
+        },
+        {
+          "number": 3,
+          "winner": "Democrat",
+          "estimatedPercentage": 63.1
+        },
+        {
+          "number": 4,
+          "winner": "Democrat",
+          "estimatedPercentage": 78.2
+        },
+        {
+          "number": 5,
+          "winner": "Democrat",
+          "estimatedPercentage": 67.9
+        },
+        {
+          "number": 6,
+          "winner": "Democrat",
+          "estimatedPercentage": 57.4
+        },
+        {
+          "number": 7,
+          "winner": "Democrat",
+          "estimatedPercentage": 71.8
+        },
+        {
+          "number": 8,
+          "winner": "Democrat",
+          "estimatedPercentage": 59.2
+        }
+      ]
+     }
+    
+  ]
+}

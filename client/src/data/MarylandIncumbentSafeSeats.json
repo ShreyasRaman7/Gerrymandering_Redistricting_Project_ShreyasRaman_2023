@@ -1,0 +1,73 @@
+{
+  "labels": [
+    "MD-01",
+    "MD-02",
+    "MD-03",
+    "MD-04",
+    "MD-05",
+    "MD-06",
+    "MD-07",
+    "MD-08"
+  ],
+  "incumbents": [
+    {
+      "district": "MD-01",
+      "name": "Andy Harris",
+      "party": "Republican",
+      "safeSeats": 1,
+      "margin": 11.3
+    },
+    {
+      "district": "MD-02",
+      "name": "Dutch Ruppersberger",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 18.6
+    },
+    {
+      "district": "MD-03",
+      "name": "John Sarbanes",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 20.48
+    },
+    {
+      "district": "MD-04",
+      "name": "Glenn Ivey",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 80.45
+    },
+    {
+      "district": "MD-05",
+      "name": "Steny Hoyer",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 31.96
+    },
+    {
+      "district": "MD-06",
+      "name": "David Trone",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 9.57
+    },
+    {
+      "district": "MD-07",
+      "name": "Kweisi Mfume",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 64.35
+    },
+    {
+      "district": "MD-08",
+      "name": "Jamie Raskin",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 62.03
+    }
+  ],
+  "openSeats": [
+    
+  ]
+}

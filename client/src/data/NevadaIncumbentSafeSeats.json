@@ -1,0 +1,39 @@
+{
+  "labels": [
+    "NV-01",
+    "NV-02",
+    "NV-03",
+    "NV-04"
+  ],
+  "incumbents": [
+    {
+      "district": "NV-01",
+      "name": "Dina Titus",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 12
+    },
+    {
+      "district": "NV-02",
+      "name": "Mark Amodei",
+      "party": "Republican",
+      "safeSeats": 1,
+      "margin": 12
+    },
+    {
+      "district": "NV-03",
+      "name": "Susie Lee",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 12
+    },
+    {
+      "district": "NV-04",
+      "name": "Steven Horsford",
+      "party": "Democratic",
+      "safeSeats": 1,
+      "margin": 12
+    }
+  ],
+  "openSeats": []
+}

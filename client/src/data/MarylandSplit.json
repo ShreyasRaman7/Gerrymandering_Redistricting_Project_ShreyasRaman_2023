@@ -1,0 +1,26 @@
+{
+    "state": "Maryland",
+    "year": 2022,
+    "realLifeData": {
+      "republican": 1,
+      "democratic": 7
+    },
+    "generatedSplits": [
+      {
+        "name": "Democrat Favored Plan",
+        "republican": 0,
+        "democratic": 8
+      },
+      {
+        "name": "High Geometric Variation Plan",
+        "republican": 1,
+        "democratic": 7
+      },
+      {
+        "name": "High Population Variation Plan",
+        "republican": 2,
+        "democratic": 6
+      }
+    ]
+  }
+  

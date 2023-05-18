@@ -1,0 +1,142 @@
+
+{"incumbentN": [
+    {
+      "district": "CD1",
+      "name": "Dina Titus",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Urban",
+      "populationVariation": "725,337"
+    },
+    {
+      "district": "CD2",
+      "name": "Mark Amodei",
+      "party": "Republican",
+      "electionResult": "W",
+      "geographicVariation": "Rural",
+      "populationVariation": "799,385"
+    },
+    {
+      "district": "CD3",
+      "name": "Susie Lee",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Urban",
+      "populationVariation": "788,858"
+    },
+    {
+      "district": "CD4",
+      "name": "Steven Horsford",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Urban",
+      "populationVariation": "719,110"
+    }
+  ],
+  "incumbentM": [
+    {
+      "district": "CD1",
+      "name": "Andrew P. Harris",
+      "party": "Republican",
+      "electionResult": "L",
+      "geographicVariation": "Rural",
+      "populationVariation": "762,755"
+    },
+    {
+      "district": "CD2",
+      "name": "Dutch Ruppersberger",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Suburban",
+      "populationVariation": "761,465"
+    },
+    {
+      "district": "CD3",
+      "name": "John Sarbanes",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Urban",
+      "populationVariation": "759,656"
+    },
+    {
+      "district": "CD4",
+      "name": "Anthony G. Brown",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Suburban",
+      "populationVariation": "798,552"
+    },
+    {
+      "district": "CD5",
+      "name": "Steny H. Hoyer",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Suburban",
+      "populationVariation": "776,558"
+    },
+    {
+      "district": "CD6",
+      "name": "David Trone",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Rural/Suburban",
+      "populationVariation": "781,126"
+    },
+    {
+      "district": "CD7",
+      "name": "Kweisi Mfume",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Urban/Suburban",
+      "populationVariation": "781,238"
+    },
+    {
+      "district": "CD8",
+      "name": "Jamie Raskin",
+      "party": "Democrat",
+      "electionResult": "W",
+      "geographicVariation": "Suburban",
+      "populationVariation": "785,165"
+    }
+  ],
+  "incumbentO" : [
+    {
+      "district": "CD1",
+      "name": "Kevin Hern",
+      "party": "Republican",
+      "electionResult": "W",
+      "geographicVariation": "Rural/Suburban",
+      "populationVariation": "802,926"
+    },
+    {
+      "district": "CD2",
+      "name": "Markwayne Mullin",
+      "party": "Republican",
+      "electionResult": "W",
+      "geographicVariation": "Rural",
+      "populationVariation": "797,260"
+    },
+    {
+      "district": "CD3",
+      "name": "Frank Lucas",
+      "party": "Republican",
+      "electionResult": "W",
+      "geographicVariation": "Rural",
+      "populationVariation": "785,409"
+    },
+    {
+      "district": "CD4",
+      "name": "Tom Cole",
+      "party": "Republican",
+      "electionResult": "W",
+      "geographicVariation": "Rural/Suburban",
+      "populationVariation": "788,677"
+    },
+    {"district": "CD5",
+      "name": "Stephanie Bice",
+      "party": "Republican",
+      "electionResult": "L",
+      "geographicVariation": "Urban/Suburban",
+      "populationVariation": "798,438"
+    }
+  ]}

@@ -1,0 +1,61 @@
+{
+    "state": "Nevada",
+    "year": 2022,
+    "realLifeData": {
+      "republican": 2,
+      "democratic": 3
+    },
+    "generatedSplits": [
+      {
+        "planNumber": 1,
+        "republican": 3,
+        "democratic": 2
+      },
+      {
+        "planNumber": 2,
+        "republican": 2,
+        "democratic": 3
+      },
+      {
+        "planNumber": 3,
+        "republican": 2,
+        "democratic": 3
+      },
+      {
+        "planNumber": 4,
+        "republican": 1,
+        "democratic": 4
+      },
+      {
+        "planNumber": 5,
+        "republican": 3,
+        "democratic": 2
+      },
+      {
+        "planNumber": 6,
+        "republican": 2,
+        "democratic": 3
+      },
+      {
+        "planNumber": 7,
+        "republican": 3,
+        "democratic": 2
+      },
+      {
+        "planNumber": 8,
+        "republican": 2,
+        "democratic": 3
+      },
+      {
+        "planNumber": 9,
+        "republican": 1,
+        "democratic": 4
+      },
+      {
+        "planNumber": 10,
+        "republican": 2,
+        "democratic": 3
+      }
+    ]
+  }
+  
